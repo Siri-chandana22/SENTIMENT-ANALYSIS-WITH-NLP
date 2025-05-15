@@ -73,3 +73,5 @@ Visualization:
 The confusion matrix plot clearly shows model performance visually with labeled axes and a color gradient.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/0d829773-9b65-40f1-9410-1d3900fd4314)
